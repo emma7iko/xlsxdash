@@ -1,0 +1,27 @@
+{
+  "name": "xlsxdash",
+  "version": "0.1.0",
+  "description": "Interactive TUI dashboard for Excel .xlsx files in the terminal.",
+  "type": "module",
+  "bin": {
+    "xlsxdash": "./bin/xlsxdash.js"
+  },
+  "scripts": {
+    "start": "node ./bin/xlsxdash.js"
+  },
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "ink": "^4.4.0",
+    "ink-select-input": "^5.0.0",
+    "meow": "^13.2.0"
+  },
+  "keywords": [
+    "excel",
+    "xlsx",
+    "tui",
+    "cli",
+    "dashboard"
+  ],
+  "author": "",
+  "license": "MIT"
+}
