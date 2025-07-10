@@ -47,7 +47,3 @@ xlsxdash data.xlsx
 - KPI summaries
 - Exporting charts as images
 - AI suggestions for visualizations
-
----
-
-MIT License
